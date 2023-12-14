@@ -22,12 +22,19 @@ pip install -r requirements.txt
 The repository is structured into Jupyter Notebooks that sequentially take you through the stages of the predictive modeling process:
 
 _0_dataset_creation.ipynb: Constructs the dataset using two data sources.
+
 _1_dataset_analysis.ipynb: Analyses the dataset for initial insights.
+
 _2_target_transformation.ipynb: Transforms the target variable for modeling.
+
 _3_betting_odds.ipynb: Examines and processes betting odds data.
+
 _4_missing_data_handling.ipynb: Handles missing data to maintain model integrity.
+
 _5_feature_extraction.ipynb: Extracts features for use in predictive models.
+
 _6_data_preparation.ipynb: Prepares data for model training and evaluation.
+
 _6_exploratory_data_analysis.ipynb: Conducts exploratory data analysis to inform the modeling.
 
 Each notebook is documented with code, comments, and visualizations to explain the process.
