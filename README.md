@@ -21,8 +21,8 @@ pip install -r requirements.txt
 
 The repository is structured into Jupyter Notebooks that sequentially take you through the stages of the predictive modeling process:
 
-_0_dataset_creation.ipynb: Constructs the dataset using two data sources.
-_1_dataset_analysis.ipynb: Analyses the dataset for initial insights.
+- _0_dataset_creation.ipynb: Constructs the dataset using two data sources.
+- _1_dataset_analysis.ipynb: Analyses the dataset for initial insights.
 
 _2_target_transformation.ipynb: Transforms the target variable for modeling.
 
