@@ -14,7 +14,8 @@ Clone this repository and install the dependencies:
 ```bash
 git clone https://github.com/toyanunal/Tennis-Outcome-Prediction-Thesis.git
 cd Tennis-Outcome-Prediction-Thesis
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```bash
 
 ## Overview of the repository
 
