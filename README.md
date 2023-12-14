@@ -1,6 +1,6 @@
 # Tennis Outcome Prediction
 
-This repository contains the code and data for my M.Sc. thesis titled "Predicting Tennis Match Outcome: A Machine Learning Approach Using the SRP-CRISP-DM Framework". It aims to provide a structured, methodical approach to predictive analytics in tennis, using machine learning and data mining techniques.
+This repository contains the code and data for my M.Sc. thesis titled **"Predicting Tennis Match Outcome: A Machine Learning Approach Using the SRP-CRISP-DM Framework"**. It aims to provide a structured, methodical approach to predictive analytics in tennis, using machine learning and data mining techniques.
 
 ## Requirements
 
@@ -15,9 +15,9 @@ Clone this repository and install the dependencies:
 git clone https://github.com/toyanunal/Tennis-Outcome-Prediction-Thesis.git
 cd Tennis-Outcome-Prediction-Thesis
 pip install -r requirements.txt
-```bash
+```
 
-## Overview of the repository
+## Overview
 
 The repository is structured into Jupyter Notebooks that sequentially take you through the stages of the predictive modeling process:
 
@@ -31,3 +31,7 @@ _6_data_preparation.ipynb: Prepares data for model training and evaluation.
 _6_exploratory_data_analysis.ipynb: Conducts exploratory data analysis to inform the modeling.
 
 Each notebook is documented with code, comments, and visualizations to explain the process.
+
+## Acknowledgments
+
+This research was supported by. Special thanks to [any individuals you wish to acknowledge].
