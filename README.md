@@ -12,9 +12,9 @@ This repository contains the code and data for my M.Sc. thesis titled "Predictin
 Clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/Tennis-Outcome-Prediction-Thesis.git
+git clone https://github.com/toyanunal/Tennis-Outcome-Prediction-Thesis.git
 cd Tennis-Outcome-Prediction-Thesis
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ## Overview of the repository
 
