@@ -23,21 +23,16 @@ The repository is structured into Jupyter Notebooks that sequentially take you t
 
 - _0_dataset_creation.ipynb: Constructs the dataset using two data sources.
 - _1_dataset_analysis.ipynb: Analyses the dataset for initial insights.
-
-_2_target_transformation.ipynb: Transforms the target variable for modeling.
-
-_3_betting_odds.ipynb: Examines and processes betting odds data.
-
-_4_missing_data_handling.ipynb: Handles missing data to maintain model integrity.
-
-_5_feature_extraction.ipynb: Extracts features for use in predictive models.
-
-_6_data_preparation.ipynb: Prepares data for model training and evaluation.
-
-_6_exploratory_data_analysis.ipynb: Conducts exploratory data analysis to inform the modeling.
+- _2_target_transformation.ipynb: Transforms the target variable for modeling.
+- _3_betting_odds.ipynb: Examines and processes betting odds data.
+- _4_missing_data_handling.ipynb: Handles missing data to maintain model integrity.
+- _5_feature_extraction.ipynb: Extracts features for use in predictive models.
+- _6_data_preparation.ipynb: Prepares data for model training and evaluation.
+- _6_exploratory_data_analysis.ipynb: Conducts exploratory data analysis to inform the modeling.
 
 Each notebook is documented with code, comments, and visualizations to explain the process.
 
 ## Acknowledgments
 
-This research was supported by. Special thanks to [any individuals you wish to acknowledge].
+The dataset used in this study is based on the extensive work by Jeff Sackmann and is available on his GitHub repository, [Tennis Abstract](https://github.com/JeffSackmann). I am deeply thankful for his dedication to creating and updating this comprehensive tennis database, which has been instrumental in conducting my research. His commitment to the tennis analytics community is invaluable and greatly appreciated.
+
