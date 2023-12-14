@@ -37,7 +37,7 @@ Each notebook is documented with code, comments, and visualizations to explain t
 
 ## Acknowledgments
 
-The dataset used in this study is based on the extensive work by Jeff Sackmann and is available on his GitHub repository, [Tennis Abstract](https://github.com/JeffSackmann). 
+The dataset used in this study is based on the extensive work by Jeff Sackmann and is available on his GitHub repository ([Tennis Abstract](https://github.com/JeffSackmann)). 
 
 I am deeply thankful for his dedication to creating and updating this comprehensive tennis database, which has been instrumental in conducting my research. His commitment to the tennis analytics community is invaluable and greatly appreciated.
 
