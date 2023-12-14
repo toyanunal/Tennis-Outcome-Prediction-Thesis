@@ -2,10 +2,12 @@
 
 This repository contains the code and data for my M.Sc. thesis titled **Predicting Tennis Match Outcome: A Machine Learning Approach Using the SRP-CRISP-DM Framework**. It aims to provide a structured, methodical approach to predictive analytics in tennis, using machine learning and data mining techniques.
 
+
 ## Requirements
 
 - Python 3.10
 - Dependencies listed in `requirements.txt`
+
 
 ## Installation
 
@@ -32,7 +34,10 @@ The repository is structured into Jupyter Notebooks that sequentially take you t
 
 Each notebook is documented with code, comments, and visualizations to explain the process.
 
+
 ## Acknowledgments
 
-The dataset used in this study is based on the extensive work by Jeff Sackmann and is available on his GitHub repository, [Tennis Abstract](https://github.com/JeffSackmann). I am deeply thankful for his dedication to creating and updating this comprehensive tennis database, which has been instrumental in conducting my research. His commitment to the tennis analytics community is invaluable and greatly appreciated.
+The dataset used in this study is based on the extensive work by Jeff Sackmann and is available on his GitHub repository, [Tennis Abstract](https://github.com/JeffSackmann). 
+
+I am deeply thankful for his dedication to creating and updating this comprehensive tennis database, which has been instrumental in conducting my research. His commitment to the tennis analytics community is invaluable and greatly appreciated.
 
