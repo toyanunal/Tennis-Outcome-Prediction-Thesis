@@ -1,6 +1,6 @@
 # Tennis Outcome Prediction
 
-This repository contains the code and data for my M.Sc. thesis titled **"Predicting Tennis Match Outcome: A Machine Learning Approach Using the SRP-CRISP-DM Framework"**. It aims to provide a structured, methodical approach to predictive analytics in tennis, using machine learning and data mining techniques.
+This repository contains the code and data for my M.Sc. thesis titled **Predicting Tennis Match Outcome: A Machine Learning Approach Using the SRP-CRISP-DM Framework**. It aims to provide a structured, methodical approach to predictive analytics in tennis, using machine learning and data mining techniques.
 
 ## Requirements
 
