@@ -3,7 +3,7 @@ This repository contains the code and data for my M.Sc. thesis titled "Predictin
 
 # Requirements
 
-1. Python 3.10
+1. `Python 3.10`.
 2. The requirements in `requirements.txt`.
 
 # Getting started
